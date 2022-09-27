@@ -10,7 +10,7 @@ This plug-in will set the APEX session time zone to the user's browser time zone
 This plug-in solves two issues related to the APEX Application Globalization setting for Automatic Time Zone.
 
 - This plug-in works with public applications.
-- When used with "timestamp with local time zone," this plug-in wil the data base will recognize when to apply time zone changes due to daylight saving time.
+- When used with "timestamp with local time zone" with this plug-in, the database will recognize when to apply time zone changes due to daylight saving time.
 
 ## Installation
 Import this plug-in into your application. Add the plug-in as an item on any page. (Note: this plugin can be used on Page 0 and some use cases may require that the plug-in be added twice to the same page.)
